@@ -1,0 +1,183 @@
+[
+    {
+      "locationId": "L031",
+      "name": "Bãi Xép",
+      "type": "Beach",
+      "image": "/images/locations/baixep.png"
+    },
+    {
+      "locationId": "L032",
+      "name": "Cát Tiên",
+      "type": "Outdoors",
+      "image": "/images/locations/cattien.jpg"
+    },
+    {
+      "locationId": "L033",
+      "name": "Quảng Ninh",
+      "type": "City",
+      "image": "/images/locations/quang_ninh.jpg"
+    },
+    {
+      "locationId": "L034",
+      "name": "Đảo Cô Tô",
+      "type": "Romance",
+      "image": "/images/locations/co_to.webp"
+    },
+    {
+      "locationId": "L035",
+      "name": "Bình Thuận",
+      "type": "Relax",
+      "image": "/images/locations/binh_thuan.jpg"
+    },
+    {
+      "locationId": "L036",
+      "name": "Đảo Nam Du",
+      "type": "Beach",
+      "image": "/images/locations/nam_du.jpg"
+    },
+    {
+      "locationId": "L037",
+      "name": "Mộc Châu",
+      "type": "Outdoors",
+      "image": "/images/locations/moc_chau.jpg"
+    },
+    {
+      "locationId": "L038",
+      "name": "Cần Thơ",
+      "type": "City",
+      "image": "/images/locations/can_tho.jpg"
+    },
+    {
+      "locationId": "L039",
+      "name": "Đồng Nai",
+      "type": "Romance",
+      "image": "/images/locations/dong_nai.jpg"
+    },
+    {
+      "locationId": "L040",
+      "name": "Hồ Ba Bể",
+      "type": "Relax",
+      "image": "/images/locations/ho_ba_be.jpg"
+    },
+    {
+      "locationId": "L041",
+      "name": "Bãi Dài",
+      "type": "Beach",
+      "image": "/images/locations/bai_dai.jpg"
+    },
+    {
+      "locationId": "L042",
+      "name": "Yên Tử",
+      "type": "Outdoors",
+      "image": "/images/locations/yen_tu.jpg"
+    },
+    {
+      "locationId": "L043",
+      "name": "Bắc Giang",
+      "type": "City",
+      "image": "/images/locations/yen_tu.jpg"
+    },
+    {
+      "locationId": "L044",
+      "name": "Côn Sơn",
+      "type": "Romance",
+      "image": "/images/locations/con_son.jpg"
+    },
+    {
+      "locationId": "L045",
+      "name": "Hồ Tuyền Lâm",
+      "type": "Relax",
+      "image": "/images/locations/ho_tuyen_lam.jpg"
+    },
+    {
+      "locationId": "L046",
+      "name": "Đảo Phú Quý",
+      "type": "Beach",
+      "image": "/images/locations/ho_tuyen_lam.jpg"
+    },
+    {
+      "locationId": "L047",
+      "name": "Ba Na Mountain",
+      "type": "Outdoors",
+      "image": "/images/locations/ba_na.jpg"
+    },
+    {
+      "locationId": "L048",
+      "name": "Ninh Chữ",
+      "type": "City",
+      "image": "/images/locations/ninh_chu.jpg"
+    },
+    {
+      "locationId": "L049",
+      "name": "Đại Nam",
+      "type": "Romance",
+      "image": "/images/locations/dai_nam.jpg"
+    },
+    {
+      "locationId": "L050",
+      "name": "Phú Mỹ",
+      "type": "Relax",
+      "image": "/images/locations/phu_my.jpg"
+    },
+    {
+      "locationId": "L051",
+      "name": "Vân Đồn",
+      "type": "Beach",
+      "image": "/images/locations/van don.jpg"
+    },
+    {
+      "locationId": "L052",
+      "name": "Tràng An",
+      "type": "Outdoors",
+      "image": "/images/locations/trang an.jpg"
+    },
+    {
+      "locationId": "L053",
+      "name": "Hạ Long Bay",
+      "type": "City",
+      "image": "/images/locations/ha_long_bay.jpg"
+    },
+    {
+      "locationId": "L054",
+      "name": "Tam Cốc",
+      "type": "Romance",
+      "image": "/images/locations/tam_coc.jpg"
+    },
+    {
+      "locationId": "L055",
+      "name": "Cảnh Dương",
+      "type": "Relax",
+      "image": "/images/locations/canh_duong.jpg"
+    },
+    {
+      "locationId": "L056",
+      "name": "Đà Nẵng",
+      "type": "Beach",
+      "image": "/images/locations/da_nang.jpg"
+    },
+    {
+      "locationId": "L057",
+      "name": "Sơn La",
+      "type": "Outdoors",
+      "image": "/images/locations/son_la.jpg"
+    },
+    {
+      "locationId": "L058",
+      "name": "Cà Mau",
+      "type": "City",
+      "image": "/images/locations/ca_mau.jpg"
+    },
+    {
+      "locationId": "L059",
+      "name": "Chùa Một Cột",
+      "type": "Romance",
+      "image": "/images/locations/chua_1_cot.jpg"
+    },
+    {
+      "locationId": "L060",
+      "name": "Hoàng Su Phì",
+      "type": "Relax",
+      "image": "/images/locations/hoang_su_phi.jpg"
+    }
+  ]
+  
